@@ -10,9 +10,9 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Dil Ko Karar Aaya",
-          artist: "Sidharth Shukla & Neha Sharma",
-          cover: "img/1.jpg",
+          name: "សត្រូវជុំវិញខ្លួន",
+          artist: "សត្រូវជុំវិញខ្លួន",
+          cover: "img/1.png",
           source: "mp3/1.mp3",
           url: "https://youtu.be/lX3vT_Gm_HE?si=1F0V2X0DlCAcoieo",
           favorited: false
@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Tu Mera Koi Na Hoke Bhi Kuch Lage",
           artist: "Arijit Singh | Vanun, Kriti",
-          cover: "img/2.jpg",
+          cover: "img/1.png",
           source: "mp3/2.mp3",
           url: "https://youtu.be/KEkuSubnZMs?si=UAyjUWD7MTfoPwFr",
           favorited: true
@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Tum Mere Ho",
           artist: "Vivan Bhathena, Ihana Dhillon",
-          cover: "img/3.jpg",
+          cover: "img/1.png",
           source: "mp3/3.mp3",
           url: "https://youtu.be/G-rP4TVg7vs?si=8-8-gjod8wowOoG4",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "सनम रे गाना",
           artist: "पुलकित सम्राट, यामी गौतम, उर्वशी रौतेला, दिव्या खोसला",
-          cover: "img/4.jpg",
+          cover: "img/1.png",
           source: "mp3/4.mp3",
           url: "https://youtu.be/MiG5jPmyDFI?si=qu4PpJFHd-10c9A_",
           favorited: false
@@ -44,7 +44,7 @@ new Vue({
         {
           name: "मरीज़-ए-इश्‍क",
           artist: " मन्‍नारा | करणवीर",
-          cover: "img/5.jpg",
+          cover: "img/1.png",
           source: "mp3/5.mp3",
           url: "https://youtu.be/Ph9WRhlPacY?si=Jxcz2VYnKeabPZqN",
           favorited: true
@@ -52,7 +52,7 @@ new Vue({
         {
           name: "Roja |A.R. Rahman ",
           artist: "Madhoo |Arvind |S.P. Balasubrahmanyam |K.S.Chithra",
-          cover: "img/6.jpg",
+          cover: "img/1.png",
           source: "mp3/6.mp3",
           url: "https://youtu.be/iDQ1qjCevZE?si=Jxh4EbrgKKcPZilA",
           favorited: false
@@ -60,7 +60,7 @@ new Vue({
         {
           name: "Tere Hawaale",
           artist: " Laal Singh Chaddha | Aamir,Kareena | Arijit,Shilpa | Pritam,Amitabh,Advait",
-          cover: "img/7.jpg",
+          cover: "img/1.png",
           source: "mp3/7.mp3",
           url: "https://youtu.be/KUpwupYj_tY?si=3qYGj0Jdz2F6bKJy",
           favorited: true
@@ -68,7 +68,7 @@ new Vue({
         {
           name: "तू इश़्क मेरा ",
           artist: " हेट स्टोरी 2015",
-          cover: "img/8.jpg",
+          cover: "img/1.png",
           source: "mp3/8.mp3",
           url: "https://youtu.be/7o9Nc9dANzs?si=l2gq0uqyp37teDAG",
           favorited: false
@@ -76,7 +76,7 @@ new Vue({
         {
           name: "वजह तुम हो ",
           artist: " हेट स्टोरी 3 ",
-          cover: "img/9.jpg",
+          cover: "img/1.png",
           source: "mp3/9.mp3",
           url: "https://youtu.be/__ZvXBf1rmw?si=8W76eZIt3SEZHpfw",
           favorited: false
