@@ -14,7 +14,7 @@ new Vue({
           artist: "សត្រូវជុំវិញខ្លួន",
           cover: "img/1.png",
           source: "mp3/1.mp3",
-          url: "https://t.me/kimm_san",
+          url:"https://t.me/kimm_san",
           favorited: false
         },
         {
